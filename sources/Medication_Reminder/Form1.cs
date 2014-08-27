@@ -19,7 +19,7 @@ namespace Medication_Reminder
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
+           // this is a comment for a test
             string name = textBox1.Text.ToString();
 
             string room = textBox2.Text.ToString();
