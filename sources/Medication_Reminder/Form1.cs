@@ -26,6 +26,8 @@ namespace Medication_Reminder
 
             string room = textBox2.Text.ToString();
             Int32 rno = Int32.Parse(room);
+            
+            
 
             string bedno = textBox7.Text.ToString();
             Int32 bed = Int32.Parse(bedno);
