@@ -21,6 +21,7 @@ namespace Medication_Reminder
         {
            // this is a comment for a test
             // this is another comment for a test
+            //third comment
             string name = textBox1.Text.ToString();
 
             string room = textBox2.Text.ToString();
