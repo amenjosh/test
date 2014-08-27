@@ -14,6 +14,7 @@ namespace Medication_Reminder
         static void Main()
         {
 
+            // This is only on Dev branch //
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
